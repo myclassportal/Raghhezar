@@ -1,4 +1,4 @@
-const CACHE_NAME = 'division-game-v1';
+const CACHE_NAME = 'words-to-numbers-thousand-v1';
 const ASSETS = [
   './',
   './index.html',
